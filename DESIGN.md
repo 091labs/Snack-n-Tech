@@ -1,6 +1,7 @@
 091 Labs Vending Machine Project
 ================================
 
+
 Cabinet
 -------
 
@@ -40,6 +41,7 @@ lcd display (16-20 char, 2-4 rows).
 User interface could be integrate with our door lock to enable door
 being left unlocked during open events.
 
+
 Controller
 ----------
 
@@ -61,3 +63,15 @@ Various functions to handle I/O. TBD
 mosquitto for mqtt broker.
 
 Various software components to deal with I/O, security, sync, etc. TBD
+
+
+Software Development
+--------------------
+
+All software developed for this project should be open sourced.
+
+When possible the software commits should contain tests to verify the 
+functionality.
+
+All python code should be PEP8 compliant:
+http://legacy.python.org/dev/peps/pep-0008/
