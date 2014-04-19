@@ -37,6 +37,9 @@ User input will be done via coin acceptor, RFID reader and keypad.
 Output to user will be done with receiving bowl, indication leds and
 lcd display (16-20 char, 2-4 rows).
 
+User interface could be integrate with our door lock to enable door
+being left unlocked during open events.
+
 Controller
 ----------
 
